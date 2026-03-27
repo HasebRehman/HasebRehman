@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Haseeb Rehman 👋</h1>
 
 <p align="center">
-  Frontend Developer | React • JavaScript • UI Specialist
+  Full Stack JS Developer | React • Next • Nest • Supabase
 </p>
 
 ---
@@ -44,11 +44,7 @@
 <h3 align="left">📌 About Me</h3>
 
 <p align="left">
-Frontend Developer focused on building modern, responsive, and user-friendly web interfaces.  
-Strong experience in turning UI designs into clean, reusable, and scalable React components.  
-Passionate about performance optimization, pixel-perfect layouts, and smooth user experiences.  
-Comfortable working with JavaScript frameworks, CSS utilities, and component-based architectures.  
-Always learning new frontend trends to deliver high-quality digital products.
+Full Stack Developer focused on building modern, scalable, and high-performance web applications. Experienced in developing clean, responsive, and user-friendly interfaces using React, Next.js, and modern UI frameworks like Tailwind and Material UI. Skilled in both frontend and backend development with technologies like NestJS and Supabase, ensuring seamless functionality from UI to database. Passionate about writing clean, maintainable code, optimizing performance, and creating smooth user experiences. Always exploring new tools and trends to deliver efficient and high-quality digital solutions.
 </p>
 
 ---
