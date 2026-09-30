@@ -67,7 +67,10 @@
 <h3 align="left">📌 About Me</h3>
 
 <p align="left">
-Full Stack Developer focused on building modern, scalable, and high-performance web applications. Experienced in developing clean, responsive, and user-friendly interfaces using React, Next.js, and modern UI frameworks like Tailwind and Material UI. Skilled in both frontend and backend development with technologies like NestJS and Supabase, ensuring seamless functionality from UI to database. Passionate about writing clean, maintainable code, optimizing performance, and creating smooth user experiences. Always exploring new tools and trends to deliver efficient and high-quality digital solutions.
+I specialize in 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 development and 𝗦𝗮𝗮𝗦 products, working across React, Next.js, TypeScript, Node.js, NestJS, and Express, with PostgreSQL, MongoDB, Supabase, Prisma, and Redis on the data layer. 
+Beyond the core stack, I bring hands-on experience with Docker for containerization, GraphQL and WebSocket for flexible and real-time APIs, Firebase for auth/backend services, and AI integration for smarter product features. I write tested, reliable code using Jest, and Im comfortable working with third-party integrations, Postman, and Git/GitHub in team-based workflows. 
+BSc Computer Science, NUML Lahore (CGPA 3.63). Currently a 𝗦𝗲𝗻𝗶𝗼𝗿 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, also building WordPress, Shopify, and Webflow websites for clients who need a CMS-based solution. 
+𝗢𝗽𝗲𝗻 𝘁𝗼 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗿𝗼𝗹𝗲𝘀 𝗮𝗻𝗱 𝗿𝗲𝗺𝗼𝘁𝗲 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝘄𝗵𝗲𝗿𝗲 𝗜 𝗰𝗮𝗻 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱.
 </p>
 
 ---
@@ -84,7 +87,7 @@ Full Stack Developer focused on building modern, scalable, and high-performance 
   <a href="mailto:haseebrehman3460@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/" target="_blank">
+  <a href="https://wa.me/923268795099" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
