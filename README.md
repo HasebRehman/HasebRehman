@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Haseeb Rehman 👋</h1>
 
 <p align="center">
-  Full Stack JS Developer | React • Next • Nest • Supabase
-</p>
+  Full-Stack SaaS & Web App Developer | MERN Stack, Next.js, TypeScript, NestJS, Prisma, Docker, Redis, AI Integration
 
 ---
 
